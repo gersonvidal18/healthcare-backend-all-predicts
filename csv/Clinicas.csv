@@ -1,0 +1,9 @@
+id,nombre,direccion,latitud,longitud,createdAt,updatedAt
+1,Hospital Yanga,Av. 5 de Mayo S/N,18.867993,-96.923141,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+2,Hospital Covadonga,Av. Orizaba 74,18.851430,-97.099777,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+3,Hospital Regional de Río Blanco,Av. Adolfo López Mateos S/N,18.862937,-97.120307,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+4,Hospital San Miguel,Av. Circunvalación Norte 100,18.859222,-97.088389,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+5,Clínica ISSSTE Orizaba,Poniente 10 S/N,18.858677,-97.105270,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+6,Hospital General de Zona 32 IMSS,Av. Oriente 6 S/N,18.868117,-97.081674,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+7,Clínica Hospital Especialidades Orizaba,Av. Puebla 1831,18.854535,-97.100876,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
+8,Hospital de Especialidades IMSS Orizaba,Av. Oriente 4 161,18.870124,-97.086002,"2024-06-06T00:00:00Z","2024-06-06T00:00:00Z"
